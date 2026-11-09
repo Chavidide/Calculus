@@ -1,5 +1,5 @@
 # 수학 탐구 실습
-보기 : calc-preview.vercel.app
+보기 : https://calc-preview.vercel.app
 ### 직접하기
 1. 저장소 다운로드
 2. 압축 풀기
