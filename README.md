@@ -8,6 +8,4 @@
 5. 아래 명령어 입력
 6. 웹 브라우저 실행후 localhost:5173 접속
 
-```
-n
-`pm run dev``
+``npm run dev``
